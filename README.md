@@ -45,12 +45,19 @@ Lines format:
   * same author as RCU (the paid suite)
   * run with `python -m rmrl [-h] <pages_directory> > page.pdf`
 * I could make my own?
+  * 
 
 Screen sharing:
 
 * `rmview`, an excellent screen-sharing application
   * https://github.com/bordaigorl/rmview
   * built with python
+
+Some awesome hardware hacks and a manager application---this guy is good!
+
+* http://www.davisr.me/projects/rcu/
+* http://www.davisr.me/projects/remarkable-microsd/
+
 
 TODO: Look through the rest of the list
 
