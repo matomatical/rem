@@ -13,8 +13,9 @@ Wishlist
   * should be able to back up notebooks and pdf annotations, possibly in
     version control?
   * there was a custom cloud backup app somewhere.
-  * git annex seems like the ideal eventual solution
-* should be able to render them in SVG and HTML for loading online.
+  * the filesystem of the tablet is an unwelcome layer of abstraction...
+  * links: https://github.com/LinusCDE/rmWebUiTools rsync git annex etc.
+* should be able to render notes in SVG and HTML for loading online.
 
 
 Existing Hacks
