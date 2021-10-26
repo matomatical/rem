@@ -1,3 +1,16 @@
+TODO 
+====
+
+Clean up this metarepository and all of the subrepos!
+
+* Merge this readme with the tools one, and notes on rem? make it a kind of
+  wishlist / awesome list / todo list
+* Clean up and publish the skins repo
+  * (make a (re)install script?)
+* Make that rsync-based rmsync for non-pdf content
+* Think about how to manage pdf content
+
+
 Matt's reMarkable
 =================
 
