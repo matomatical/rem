@@ -1,0 +1,6 @@
+[submodule "tools/reMarkable-kaitai"]
+	path = tools/reMarkable-kaitai
+	url = https://github.com/matomatical/reMarkable-kaitai
+[submodule "tools/rmview"]
+	path = tools/rmview
+	url = https://github.com/bordaigorl/rmview
