@@ -5,7 +5,7 @@ I now manage much of my life with the reMarkable paper tablet. When I'm not
 on paper, I'm at home in a terminal emulator. I have neither time nor battery
 life for gratuitous cloud connections and integrations. If you're like me,
 you might find this repository interesting---here I document the family of
-tools and scripts and so on that I use to manage my 
+tools and scripts and so on that I use to manage my tablet.
 
 Contents
 --------
@@ -24,7 +24,7 @@ In this repository:
 
 In this README:
 
-* [TODO](#todo): 
+* [TODO](#todo): Next steps.
 
 * [Ideals](#ideals):
   The thing about open computer systems is that, typically, if one can
@@ -42,10 +42,13 @@ TODO
 
 * Flesh out list of tools in contents.
 * Build more tools (add a dedicated 'Ideas' section?)
+  * A system for offline backup/version control of notebooks and annotations.
+  * A script for automatically installing templates and splashscreens.
+  * A system for leveraging storage by loading/unloading PDFs.
+* Update update checklist.
+* Add or find a guide to installing SSH keys to the device.
 * Flesh out 'Ideals' section.
-* Update notes in meta/
 * Add more links. Look through the rest of the awesome list for inspiration.
-
 
 Ideals
 ------
