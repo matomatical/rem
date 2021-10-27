@@ -1,24 +1,7 @@
-Managing reMarkable tablet, old school
-======================================
-
-I manage much of my life with the reMarkable paper tablet. When I'm not on
-paper, I'm at home in a terminal emulator trying to practice the unix
-philosophy. I have no time for gratuitous cloud connections and integrations.
-If you're like me, you might appreciate this repository.
-
-Within is family of tools I am gathering and building to manage a local
-repository of all of my notebooks and annotations from the reMarkable tablet,
-without reliance on the official reMarkable cloud or integrations.
-
-The basic tools are currently under construction. A more comprehensive set
-of tools is under design (including for loading and unloading PDFs).
-Feedback and suggestions are welcome.
-
 Overview
 --------
 
 ![](tools.png)
-
 
 TODO (build):
 
@@ -29,8 +12,8 @@ TODO (build):
 
 * `rmtree`: Render reMarkable flat directory of binary `.lines` files with a
   sane folder structure plus lightweight pdf and svg files (todo: png? txt?).
-
-
+  * rmtree uses a .lines parser built with
+    [reMarkable-kaitai](https://github.com/matomatical/reMarkable-kaitai)
 
 
 Installation
@@ -62,8 +45,7 @@ On the computer:
 Workflows
 ---------
 
-Things I want to do with the reMarkable, and how to do them with `rem` (or
-other tools).
+Things I want to do with the reMarkable, and how to do them.
 
 1.  Share my reMarkable screen
     (with [rmview](https://github.com/bordaigorl/rmview))
@@ -84,21 +66,6 @@ other tools).
     * `git commit -a -m 'message'`, etc.
 
 4.  Automatically sync on connect?
-
-
-Links
------
-
-Other cool reMarkable projects:
-
-* single-command interface for rmsync and rmtree inspired by the stunningly
-  streamlined [rmview](https://github.com/bordaigorl/rmview)
-* rmtree uses a .lines parser built with
-  [reMarkable-kaitai](https://github.com/matomatical/reMarkable-kaitai)
-* for more awesome remarkable projects, check out
-  [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable)
-* this repository is not affiliated with reMarkable AS
-
 
 
 Under design
