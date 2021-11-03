@@ -163,3 +163,4 @@ Other/unsorted:
   cloud right now, and it seemed like it would be kinda dangerous to try
   setting up something custom.
 * https://github.com/LinusCDE/rmWebUiTools + rsync + git annex etc?
+* https://github.com/after-eight/regitable
